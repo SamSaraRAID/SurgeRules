@@ -1,0 +1,2 @@
+# SurgeRules
+ForPersonalUseOnly
