@@ -9163,6 +9163,7 @@
 .adtech.com
 .adtech.de
 .adtech.fr
+.adtech.redventures.io
 .adtech.us
 .adtech.yahooinc.com
 .adtechium.com
@@ -85461,6 +85462,7 @@
 .minescripts.info
 .minettetoged.world
 .minewhat.com
+.minexmr.com
 .minfo.wps.cn
 .mingledpayoff.com
 .mingyueqingfengshe.com
@@ -135088,6 +135090,7 @@
 .telemetry.microsoft.com.nsatc.net
 .telemetry.microsoft.us
 .telemetry.moveworks.com
+.telemetry.mozilla.org
 .telemetry.navigatorapp.net
 .telemetry.navispherecarrier.com
 .telemetry.nbcuott.com
@@ -158824,6 +158827,7 @@ api-ads.tiantianqutao.com
 api-analytics-cn.huami.com
 api-es.doglobal.net
 api-hub.samsungyosemite.com
+api-js.mixpanel.com
 api-luckycoinsdk.doglobal.net
 api-scout.vercel.app
 api-shoulei-ssl.xunlei.com
@@ -158835,6 +158839,7 @@ api.e.kuaishou.com
 api.g.micloud.xiaomi.net
 api.hybrid.intl.xiaomi.com
 api.hybrid.xiaomi.com
+api.iterable.com
 api.jr.mi.com
 api.sec.intl.miui.com
 api.snmi.cn
@@ -159273,6 +159278,7 @@ jp.as.pptv.com
 jpush.html5.qq.com
 jqmt.qq.com
 jrad.jd.com
+js.iterable.com
 js.partnerstack.com
 jswebcollects.kugou.com
 jzt.jd.com
@@ -159311,6 +159317,7 @@ log.amemv.com
 log.b612kaji.com
 log.byteoversea.com
 log.kuwo.cn
+log.mmstat.com
 log.music.baidu.com
 log.star.ele.me
 log.stat.kugou.com
