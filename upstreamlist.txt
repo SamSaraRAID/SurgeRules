@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-s
 https://raw.githubusercontent.com/geekdada/surge-list/refs/heads/master/domain-set/chinese-filter.txt
 https://ruleset.skk.moe/List/domainset/reject.conf
 https://ruleset.skk.moe/List/non_ip/reject.conf
+https://raw.githubusercontent.com/EAlyce/conf/main/Rule/FQNovelAdvertising.list
 
 IP_DIRECT:
 https://ruleset.skk.moe/List/ip/china_ip.conf
